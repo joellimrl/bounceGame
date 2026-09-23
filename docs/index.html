@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#101b32" />
+    <meta
+      name="description"
+      content="The classic red ball returns. Play all 11 original Nokia Bounce levels in your browser with keyboard or touch controls."
+    />
+    <link rel="icon" href="./assets/icon.png" type="image/png" />
+    <title>Bounce — the Nokia classic</title>
+    <script type="module" crossorigin src="./assets/index-Yqh0LmQ2.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-D4ccBjfF.css">
+  </head>
+  <body>
+    <div id="app">
+      <header class="page-header">
+        <a class="wordmark" href="./" aria-label="Bounce home"
+          ><span class="ball-mark" aria-hidden="true"></span>Bounce<span class="edition"
+            >The Nokia classic</span
+          ></a
+        ><button id="sound" class="quiet-button" aria-pressed="false">Sound on</button>
+      </header>
+      <main class="arcade">
+        <section class="console" aria-label="Bounce game">
+          <div class="console-top">
+            <span id="level-label">11 levels. One red ball.</span>
+            <div class="console-actions">
+              <button
+                id="fullscreen"
+                class="icon-button"
+                aria-label="Enter fullscreen"
+                title="Fullscreen"
+              >
+                ⛶</button
+              ><button id="pause" class="quiet-button" disabled>Pause <kbd>Esc</kbd></button>
+            </div>
+          </div>
+          <div class="screen-wrap">
+            <canvas
+              id="game"
+              width="128"
+              height="128"
+              tabindex="0"
+              aria-label="Bounce game. Use left and right arrows to move and Space to jump."
+              >Your browser needs Canvas support to play Bounce.</canvas
+            >
+            <div id="screen-message" class="screen-message" hidden></div>
+          </div>
+          <div class="touch-controls" aria-label="Game controls">
+            <div class="directions">
+              <button data-control="left" aria-label="Move left">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M14 5 7 12l7 7" />
+                </svg></button
+              ><button data-control="right" aria-label="Move right">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7" /></svg>
+              </button>
+            </div>
+            <span class="control-hint">Hold to move<br />or keep bouncing</span
+            ><button data-control="jump" class="jump" aria-label="Jump">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 14 7-7 7 7" /></svg
+              ><span>Jump</span>
+            </button>
+          </div>
+        </section>
+        <aside class="sidebar">
+          <div class="menu-heading">
+            <span class="tiny-ring" aria-hidden="true"></span>
+            <p id="menu-kicker">Welcome back to the small screen.</p>
+          </div>
+          <h1 id="menu-title">Ready to roll?</h1>
+          <p id="menu-description">Collect every ring.<br />Find the exit. Watch the spikes.</p>
+          <div id="menu" class="menu" aria-label="Game menu">
+            <p>Loading the original levels…</p>
+          </div>
+          <div class="keyboard-guide">
+            <span>On your keyboard</span>
+            <div><kbd>←</kbd><kbd>→</kbd><span>move</span><kbd>Space</kbd><span>jump</span></div>
+          </div>
+          <p id="best" class="best">Best score <strong>0000000</strong></p>
+        </aside>
+      </main>
+      <footer>
+        <span>A small piece of mobile history.</span
+        ><button id="about" class="text-button">About this recreation</button
+        ><span id="save-note">Progress stays in this browser.</span>
+      </footer>
+      <p id="announcement" class="sr-only" aria-live="polite"></p>
+      <dialog id="info">
+        <button id="close-info" class="dialog-close" aria-label="Close">×</button>
+        <div id="info-content"></div>
+        <button id="done-info" class="primary">Got it</button>
+      </dialog>
+    </div>
+  </body>
+</html>

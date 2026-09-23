@@ -40,12 +40,13 @@ Unit tests cover original map headers, parsing, physics, water, checkpoints, rin
 
 ## GitHub Pages
 
-The included `.github/workflows/pages.yml` checks pull requests and builds/deploys pushes to `main`.
+The compiled game is committed in `/docs` for branch-based publishing. No repository workflow is needed.
 
-1. Put this project on your repository's `main` branch.
-2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.
-3. Push to `main`, or run **Verify and deploy Bounce** from the Actions tab.
-4. Open the URL reported by the deployment, usually `https://<owner>.github.io/bounceGame/`.
+1. In **Settings → Pages → Build and deployment**, choose **Deploy from a branch**.
+2. Select **main** and **/docs**, then **Save**.
+3. Open the URL reported by GitHub, usually `https://<owner>.github.io/bounceGame/`.
+
+After changing the game, run `npm run build:pages` and commit the regenerated `docs/index.html`, `docs/assets/`, `docs/levels/` and `docs/.nojekyll` along with the source changes. The script preserves `docs/reference/` and the implementation plan. GitHub serves the compiled JavaScript; the repository-root Vite source is not a deployable page by itself.
 
 Vite's relative asset base supports repository subpaths and custom domains. The test-only static server serves both `/` and `/bounceGame/` so nested paths are checked without relying on SPA fallbacks. There are no client-side routes requiring rewrite rules.
 
