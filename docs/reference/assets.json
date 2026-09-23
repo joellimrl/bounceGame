@@ -1,0 +1,104 @@
+[
+  {
+    "file": "public/assets/bouncesplash.png",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/icons/bouncesplash.png",
+    "sha256": "e8faaf8b6da62a72b121cccf517122ec133a15b7cab71521c6c1da659bc82e16",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/assets/icon.png",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/icons/icon.png",
+    "sha256": "b14dd1606192a1f599f2a87a50a4a4c74d1c052b67082144c1b067fda75a266a",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/assets/objects_nm.png",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/icons/objects_nm.png",
+    "sha256": "8679998456231304a9f2f8994187780334a5d8546662616657f2b731354acfed",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/assets/pickup.ott",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/sounds/pickup.ott",
+    "sha256": "8c336cac4c126302ef25c8ed7f4aef56b5c18b250180b4bed982296a5deb272c",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/assets/pop.ott",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/sounds/pop.ott",
+    "sha256": "ed414d1eb2f3fe4aa8fa0972c9b34a829d3eada7b606b3de71ca56c8f3c5c78f",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/assets/up.ott",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/sounds/up.ott",
+    "sha256": "ec41090a27eee6dce16a248aa3c3936e25570b91a1418280ba9700ffa7eb2854",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.001",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.001",
+    "sha256": "b22e1d2221a700aada442396873882e2fe4a59b52dc87a45193f1bf8592e23a5",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.002",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.002",
+    "sha256": "2f36a0eb48646d1b077b6f8564e6b0d6f9edd86fd5d2671aad54f2ae6a4c1f56",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.003",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.003",
+    "sha256": "98b642a29d91d09f159301c0701e7f210361b3641c9122e7f934dddca7310469",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.004",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.004",
+    "sha256": "6b377a874188ccfaa77b7c1693ee287d598c2c3eb6b1e4f494f311b6fdf86293",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.005",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.005",
+    "sha256": "fba77d7c6f0bf28204f6c369f9f8d023519b0b22bf5033f2f90591ee083014d0",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.006",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.006",
+    "sha256": "b6a28f63b24b3d31c3d6c9a381d11bd684965e44481b2c418a1855d5d3223b24",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.007",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.007",
+    "sha256": "de33cc71412137275b4aed4ecd04946a5c2941c19e29fae5e48094f99f41b9aa",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.008",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.008",
+    "sha256": "77308ca04e368745c89fc28636ce725b90e122101aeb2f0687a51ab4b9bfa3d6",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.009",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.009",
+    "sha256": "d19eb3779fefabdbe8c9635b153288eeeade1160c8645ddacded8f264bb0a5df",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.010",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.010",
+    "sha256": "583ee15f59deaa3cb10d373d3299956bbee34520dd4daa80e0e1c5597292b2ff",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  },
+  {
+    "file": "public/levels/J2MElvl.011",
+    "source": "https://raw.githubusercontent.com/rndtrash/nokia-bounce-decomp/8ddc40eba9484fc74706e27066fbd36ca6cbe25d/src/main/resources/levels/J2MElvl.011",
+    "sha256": "020778ecff72bf3ba46fb68f4d6c130d5f39237e7d713e7a9ac59b15d066b6ef",
+    "attribution": "Original Nokia Bounce materials; community preservation reference, no ownership claim."
+  }
+]

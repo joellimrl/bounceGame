@@ -1,0 +1,378 @@
+{
+  "level": 1,
+  "ticksPerAction": 5,
+  "actions": [
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": true,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": false,
+      "jump": true
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    },
+    {
+      "left": false,
+      "right": true,
+      "jump": false
+    }
+  ],
+  "score": 9400,
+  "lives": 4
+}
